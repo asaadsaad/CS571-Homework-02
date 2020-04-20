@@ -1,6 +1,6 @@
 # CS571-Homework-02
 ## Rich MongoDB Documents Exercise
-Please find below an Express application that connect to a local MongoDB instance, each document has the following structure:
+Please find below an Express application that connects to a local MongoDB instance, each document has the following structure:
 ```JavaScript
 {
     "_id":1,
