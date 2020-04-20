@@ -24,7 +24,7 @@ Please find below an Express application that connects to a local MongoDB instan
     ]
 }
 ```
-Your are responsible on finishing 6 routes inside `app.js` file:
+Your are responsible on writing code for 6 MongoDB queries within 6 pre-defined routes, find the code in `app.js` file:
 1. Add teacher
 2. Update teacher by ID
 3. Delete teacher by ID
