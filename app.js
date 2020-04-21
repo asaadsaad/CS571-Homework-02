@@ -14,11 +14,11 @@ app.use((req, res, next) => {
     if (!db) {
         client.connect(function (err) {
             db = client.db('rich');
-            req.db = db.collection('rich');
+            req.db = db.collection('schools');
             next();
         });
     } else {
-        req.db = db.collection('rich');
+        req.db = db.collection('schools');
         next();
     }
 })
