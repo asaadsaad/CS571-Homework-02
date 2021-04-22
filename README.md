@@ -14,12 +14,12 @@ Please find below an Express application that connects to a local MongoDB instan
             {"_id":2, "name":"Selin"}
         ]},
         {"_id":2, "students":[
-            {"_id":1, "name":"John"},
-            {"_id":2, "name":"Selin"}
+            {"_id":1, "name":"Alican"},
+            {"_id":2, "name":"Dean"}
         ]},
         {"_id":3, "students":[
-            {"_id":1, "name":"John"},
-            {"_id":2, "name":"Selin"}
+            {"_id":1, "name":"Tina"},
+            {"_id":2, "name":"Clyde"}
         ]}
     ]
 }
